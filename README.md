@@ -1,2 +1,2 @@
 # HTML-site
-Websites using HTML
+Fashion Blog Website using HTML
