@@ -1,2 +1,3 @@
 # HTML-site
 Fashion Blog Website using HTML. Text and images from Codecademy.
+Something to play around with...I didn't really code this one myself...
